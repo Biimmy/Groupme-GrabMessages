@@ -9,7 +9,7 @@
 
 
 ## Developing
-
+1st node.js I have written, still getting the hang of it. Want to create option to take in ALL messages sent.
 
 
 ### Tools
