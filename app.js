@@ -35,7 +35,7 @@ function writeData(parse)
 			}
 		}
 	}
-	if (counter < 500)
+	if (counter < 20)
 	{
 		counter++;
 		//console.log(parse.response.messages.length);
